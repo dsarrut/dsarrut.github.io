@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>David Sarrut</title>
-    <link href="https://dsarrut.github.io/dsarrut.github.io/feed.xml" rel="self" />
-    <link href="https://dsarrut.github.io/dsarrut.github.io" />
+    <link href="https://dsarrut.github.io/feed.xml" rel="self" />
+    <link href="https://dsarrut.github.io" />
     <updated>2020-11-14T17:47:12+01:00</updated>
     <author>
         <name>David Sarrut</name>
     </author>
-    <id>https://dsarrut.github.io/dsarrut.github.io</id>
+    <id>https://dsarrut.github.io</id>
 
     <entry>
         <title>Misc</title>
         <author>
             <name>David Sarrut</name>
         </author>
-        <link href="https://dsarrut.github.io/dsarrut.github.io/misc/"/>
-        <id>https://dsarrut.github.io/dsarrut.github.io/misc/</id>
+        <link href="https://dsarrut.github.io/misc/"/>
+        <id>https://dsarrut.github.io/misc/</id>
 
         <updated>2020-11-14T17:23:54+01:00</updated>
             <summary>
@@ -34,7 +34,7 @@
 <p>2014<br><a href="http://localhost:4000/about/2014.jpg" title="2014" rel="fancy-group" class="fancy-ctn fancybox"><img loading="lazy" title="2014" src="http://localhost:4000/about/2014.jpg" data-is-external-image="true"  alt="2014" width="undefined" height="undefined"></a></p>
 <p>2013<br><a href="http://localhost:4000/about/2013.jpg" title="2013" rel="fancy-group" class="fancy-ctn fancybox"><img loading="lazy" title="2013" src="http://localhost:4000/about/2013.jpg" data-is-external-image="true"  alt="2013" width="undefined" height="undefined"></a></p>
 <p>2010</p>
-<figure class="post__image"><img loading="lazy"  src="https://dsarrut.github.io/dsarrut.github.io/media/posts/7/2010.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-xs.png 300w ,https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-sm.png 480w ,https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-md.png 768w ,https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-lg.png 1024w ,https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-xl.png 1360w ,https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-2xl.png 1600w"  alt="" width="1492" height="1095"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://dsarrut.github.io/media/posts/7/2010.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/media/posts/7/responsive/2010-xs.png 300w ,https://dsarrut.github.io/media/posts/7/responsive/2010-sm.png 480w ,https://dsarrut.github.io/media/posts/7/responsive/2010-md.png 768w ,https://dsarrut.github.io/media/posts/7/responsive/2010-lg.png 1024w ,https://dsarrut.github.io/media/posts/7/responsive/2010-xl.png 1360w ,https://dsarrut.github.io/media/posts/7/responsive/2010-2xl.png 1600w"  alt="" width="1492" height="1095"></figure>
             ]]>
         </content>
     </entry>
@@ -43,8 +43,8 @@
         <author>
             <name>David Sarrut</name>
         </author>
-        <link href="https://dsarrut.github.io/dsarrut.github.io/resume/"/>
-        <id>https://dsarrut.github.io/dsarrut.github.io/resume/</id>
+        <link href="https://dsarrut.github.io/resume/"/>
+        <id>https://dsarrut.github.io/resume/</id>
 
         <updated>2020-11-14T17:21:54+01:00</updated>
             <summary>
@@ -75,8 +75,8 @@
         <author>
             <name>David Sarrut</name>
         </author>
-        <link href="https://dsarrut.github.io/dsarrut.github.io/projects/"/>
-        <id>https://dsarrut.github.io/dsarrut.github.io/projects/</id>
+        <link href="https://dsarrut.github.io/projects/"/>
+        <id>https://dsarrut.github.io/projects/</id>
 
         <updated>2020-11-14T17:47:12+01:00</updated>
             <summary>
@@ -118,8 +118,8 @@
         <author>
             <name>David Sarrut</name>
         </author>
-        <link href="https://dsarrut.github.io/dsarrut.github.io/phd-and-post-doc-advisory/"/>
-        <id>https://dsarrut.github.io/dsarrut.github.io/phd-and-post-doc-advisory/</id>
+        <link href="https://dsarrut.github.io/phd-and-post-doc-advisory/"/>
+        <id>https://dsarrut.github.io/phd-and-post-doc-advisory/</id>
 
         <updated>2020-11-14T17:45:14+01:00</updated>
             <summary>
@@ -253,8 +253,8 @@
         <author>
             <name>David Sarrut</name>
         </author>
-        <link href="https://dsarrut.github.io/dsarrut.github.io/i-like-to-code-it-code-it/"/>
-        <id>https://dsarrut.github.io/dsarrut.github.io/i-like-to-code-it-code-it/</id>
+        <link href="https://dsarrut.github.io/i-like-to-code-it-code-it/"/>
+        <id>https://dsarrut.github.io/i-like-to-code-it-code-it/</id>
 
         <updated>2020-11-14T17:42:39+01:00</updated>
             <summary>
@@ -280,8 +280,8 @@
         <author>
             <name>David Sarrut</name>
         </author>
-        <link href="https://dsarrut.github.io/dsarrut.github.io/welcome/"/>
-        <id>https://dsarrut.github.io/dsarrut.github.io/welcome/</id>
+        <link href="https://dsarrut.github.io/welcome/"/>
+        <id>https://dsarrut.github.io/welcome/</id>
 
         <updated>2020-11-14T17:40:53+01:00</updated>
             <summary>
@@ -310,8 +310,8 @@
         <author>
             <name>David Sarrut</name>
         </author>
-        <link href="https://dsarrut.github.io/dsarrut.github.io/publications/"/>
-        <id>https://dsarrut.github.io/dsarrut.github.io/publications/</id>
+        <link href="https://dsarrut.github.io/publications/"/>
+        <id>https://dsarrut.github.io/publications/</id>
 
         <updated>2020-11-14T14:47:21+01:00</updated>
             <summary>
