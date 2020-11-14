@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>David Sarrut</title>
+    <link href="https://dsarrut.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://dsarrut.github.io/gh-pages" />
+    <updated>2020-11-14T14:47:21+01:00</updated>
+    <author>
+        <name>David Sarrut</name>
+    </author>
+    <id>https://dsarrut.github.io/gh-pages</id>
+
+    <entry>
+        <title>Welcome</title>
+        <author>
+            <name>David Sarrut</name>
+        </author>
+        <link href="https://dsarrut.github.io/gh-pages/welcome/"/>
+        <id>https://dsarrut.github.io/gh-pages/welcome/</id>
+
+        <updated>2020-11-14T14:45:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Who am I ?Researcher at CNRS Leader of CREATIS ‘Tomoradio’ team (Tomographic imaging and radiation therapy) David Sarrut Centre de lutte contre le cancer Léon&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="who-am-i">Who am I ?</h2>
+<p>Researcher at CNRS</p>
+<p>Leader of <a href="http://www.creatis.insa-lyon.fr/">CREATIS</a> ‘Tomoradio’ team (<em>Tomographic imaging and radiation therapy</em>)</p>
+<h2 id="research-topics"><a href="http://localhost:4000/#Research-topics" class="headerlink" title="Research topics"></a>Research topics</h2>
+<ul>
+<li>Image-Guided Radiation Therapy (IGRT).</li>
+<li>Monte-Carlo simulations of radiation therapy treatments, both with conventional photon beams and with particle therapy.</li>
+</ul>
+<h2 id="contacts"><a href="http://localhost:4000/#Contacts" class="headerlink" title="Contacts"></a>Contacts</h2>
+<p>David Sarrut<br>Centre de lutte contre le cancer Léon Bérard<br>28 rue Laënnec, 69373 Lyon cedex 08<br>Laboratoire CREATIS UMR CNRS 5220, Inserm U 1044<br>Tel : 04 78 78 51 51 / 06 74 72 05 42</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Publications</title>
+        <author>
+            <name>David Sarrut</name>
+        </author>
+        <link href="https://dsarrut.github.io/gh-pages/publications/"/>
+        <id>https://dsarrut.github.io/gh-pages/publications/</id>
+
+        <updated>2020-11-14T14:47:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Ask me if you need the pdf versions.List on HALList on pubmedList on google scholarList on researcher gateList on publonsList as a pdf version (not necessarily up to date)List on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ask me if you need the pdf versions.</p>
+<ul>
+<li>List on <a href="https://cv.archives-ouvertes.fr/david-sarrut">HAL</a></li>
+<li>List on <a href="https://www.ncbi.nlm.nih.gov/pubmed?term=Sarrut.%20D%5BAuthor%5D">pubmed</a></li>
+<li>List on <a href="https://scholar.google.fr/citations?user=Ugm1VFsAAAAJ&amp;hl=en">google scholar</a></li>
+<li>List on <a href="https://www.researchgate.net/profile/David_Sarrut/publications">researcher gate</a></li>
+<li>List on <a href="https://publons.com/researcher/1207810/david-sarrut">publons</a></li>
+<li>List as a <a href="http://www.creatis.insa-lyon.fr/~dsarrut/publication-pedr-cnrs-2017.pdf">pdf version</a> (not necessarily up to date)</li>
+<li>List on the <a href="https://www.creatis.insa-lyon.fr/site7/en/view/biblio/author/237%20?cid_1=237">CREATIS lab page</a> (no more up to date)</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
