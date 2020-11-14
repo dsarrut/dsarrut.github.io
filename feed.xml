@@ -3,7 +3,7 @@
     <title>David Sarrut</title>
     <link href="https://dsarrut.github.io/feed.xml" rel="self" />
     <link href="https://dsarrut.github.io" />
-    <updated>2020-11-14T18:35:52+01:00</updated>
+    <updated>2020-11-14T22:22:46+01:00</updated>
     <author>
         <name>David Sarrut</name>
     </author>
@@ -46,7 +46,7 @@
         <link href="https://dsarrut.github.io/resume/"/>
         <id>https://dsarrut.github.io/resume/</id>
 
-        <updated>2020-11-14T17:21:54+01:00</updated>
+        <updated>2020-11-14T22:11:24+01:00</updated>
             <summary>
                 <![CDATA[
                     Position2019-now: DR1 CNRS and researcher at Léon Bérard cancer center2013-2019: DR2 CNRS and researcher at Léon Bérard cancer center (DR means Directeur de Recherche or Senior Permanent Researcher)2008-2013: CR1 CNRS and researcher at Léon Bérard&hellip;
@@ -67,6 +67,7 @@
 <li><strong>2008: HDR (Habilitation à Diriger les Recherches)</strong><br>Université Claude Bernard Lyon 1.<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/hdr/hdr.pdf">Imagerie dynamique et simulations Monte-Carlo pour la radiothérapie guidée par l’image</a></li>
 <li><strong>2000: PhD</strong><br>Université Lumière Lyon 2.<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/these/these-dsarrut.pdf">Recalage multimodal et plate-forme d’imagerie médicale à accès distant</a></li>
 </ul>
+<figure class="post__image"><img loading="lazy"  src="https://dsarrut.github.io/media/posts/6/cv.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/media/posts/6/responsive/cv-xs.png 300w ,https://dsarrut.github.io/media/posts/6/responsive/cv-sm.png 480w ,https://dsarrut.github.io/media/posts/6/responsive/cv-md.png 768w ,https://dsarrut.github.io/media/posts/6/responsive/cv-lg.png 1024w ,https://dsarrut.github.io/media/posts/6/responsive/cv-xl.png 1360w ,https://dsarrut.github.io/media/posts/6/responsive/cv-2xl.png 1600w"  alt="" width="521" height="261"></figure>
             ]]>
         </content>
     </entry>
@@ -286,7 +287,7 @@
         <link href="https://dsarrut.github.io/welcome/"/>
         <id>https://dsarrut.github.io/welcome/</id>
 
-        <updated>2020-11-14T17:40:53+01:00</updated>
+        <updated>2020-11-14T22:22:46+01:00</updated>
             <summary>
                 <![CDATA[
                     Who am I ?Researcher at CNRS Leader of CREATIS ‘Tomoradio’ team (Tomographic imaging and radiation therapy) David Sarrut Centre de lutte contre le cancer Léon&hellip;
@@ -294,7 +295,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="who-am-i">Who am I ?</h2>
+                <h2>Who am I ?</h2>
 <p>Researcher at CNRS </p>
 <p>Leader of <a href="http://www.creatis.insa-lyon.fr/">CREATIS</a> ‘<a href="https://www.creatis.insa-lyon.fr/site7/en/tomoradio" target="_blank" rel="noopener noreferrer">Tomoradio</a>’ team (<em>Tomographic imaging and radiation therapy</em>)</p>
 <h2 id="research-topics"><a href="http://localhost:4000/#Research-topics" class="headerlink" title="Research topics"></a>Research topics</h2>
@@ -305,6 +306,7 @@
 </ul>
 <h2 id="contacts"><a href="http://localhost:4000/#Contacts" class="headerlink" title="Contacts"></a>Contacts</h2>
 <p>David Sarrut<br>Centre de lutte contre le cancer Léon Bérard<br>28 rue Laënnec, 69373 Lyon cedex 08<br>Laboratoire CREATIS UMR CNRS 5220, Inserm U 1044<br>Tel : 04 78 78 51 51 / 06 74 72 05 42</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://dsarrut.github.io/media/posts/2/cnrs-small.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-xs.png 300w ,https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-sm.png 480w ,https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-md.png 768w ,https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-lg.png 1024w ,https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-xl.png 1360w ,https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-2xl.png 1600w"  alt="" width="300" height="300"></figure>
             ]]>
         </content>
     </entry>
