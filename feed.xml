@@ -1,23 +1,289 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>David Sarrut</title>
-    <link href="https://dsarrut.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://dsarrut.github.io/gh-pages" />
-    <updated>2020-11-14T14:47:21+01:00</updated>
+    <link href="https://dsarrut.github.io/dsarrut.github.io/feed.xml" rel="self" />
+    <link href="https://dsarrut.github.io/dsarrut.github.io" />
+    <updated>2020-11-14T17:47:12+01:00</updated>
     <author>
         <name>David Sarrut</name>
     </author>
-    <id>https://dsarrut.github.io/gh-pages</id>
+    <id>https://dsarrut.github.io/dsarrut.github.io</id>
 
+    <entry>
+        <title>Misc</title>
+        <author>
+            <name>David Sarrut</name>
+        </author>
+        <link href="https://dsarrut.github.io/dsarrut.github.io/misc/"/>
+        <id>https://dsarrut.github.io/dsarrut.github.io/misc/</id>
+
+        <updated>2020-11-14T17:23:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                    (Family travel blog: https://www.dsarrut.net) 2020 2019 2018 2016 2015 2014 2013 2010
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>(Family travel blog: <a href="https://www.dsarrut.net/">https://www.dsarrut.net</a>)</p>
+<p>2020<br><a href="http://localhost:4000/about/2020.jpg" title="2020" rel="fancy-group" class="fancy-ctn fancybox"><img loading="lazy" title="2020" src="http://localhost:4000/about/2020.jpg" data-is-external-image="true"  alt="2020" width="undefined" height="undefined"></a></p>
+<p>2019<br><a href="http://localhost:4000/about/2019.jpg" title="2019" rel="fancy-group" class="fancy-ctn fancybox"><img loading="lazy" title="2019" src="http://localhost:4000/about/2019.jpg" data-is-external-image="true"  alt="2019" width="undefined" height="undefined"></a></p>
+<p>2018<br><a href="http://localhost:4000/about/2018.jpg" title="2018" rel="fancy-group" class="fancy-ctn fancybox"><img loading="lazy" title="2018" src="http://localhost:4000/about/2018.jpg" data-is-external-image="true"  alt="2018" width="undefined" height="undefined"></a></p>
+<p>2016<br><a href="http://localhost:4000/about/2016.jpg" title="2016" rel="fancy-group" class="fancy-ctn fancybox"><img loading="lazy" title="2016" src="http://localhost:4000/about/2016.jpg" data-is-external-image="true"  alt="2016" width="undefined" height="undefined"></a></p>
+<p>2015<br><a href="http://localhost:4000/about/2015.jpg" title="2015" rel="fancy-group" class="fancy-ctn fancybox"><img loading="lazy" title="2015" src="http://localhost:4000/about/2015.jpg" data-is-external-image="true"  alt="2015" width="undefined" height="undefined"></a></p>
+<p>2014<br><a href="http://localhost:4000/about/2014.jpg" title="2014" rel="fancy-group" class="fancy-ctn fancybox"><img loading="lazy" title="2014" src="http://localhost:4000/about/2014.jpg" data-is-external-image="true"  alt="2014" width="undefined" height="undefined"></a></p>
+<p>2013<br><a href="http://localhost:4000/about/2013.jpg" title="2013" rel="fancy-group" class="fancy-ctn fancybox"><img loading="lazy" title="2013" src="http://localhost:4000/about/2013.jpg" data-is-external-image="true"  alt="2013" width="undefined" height="undefined"></a></p>
+<p>2010</p>
+<figure class="post__image"><img loading="lazy"  src="https://dsarrut.github.io/dsarrut.github.io/media/posts/7/2010.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-xs.png 300w ,https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-sm.png 480w ,https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-md.png 768w ,https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-lg.png 1024w ,https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-xl.png 1360w ,https://dsarrut.github.io/dsarrut.github.io/media/posts/7/responsive/2010-2xl.png 1600w"  alt="" width="1492" height="1095"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Resume</title>
+        <author>
+            <name>David Sarrut</name>
+        </author>
+        <link href="https://dsarrut.github.io/dsarrut.github.io/resume/"/>
+        <id>https://dsarrut.github.io/dsarrut.github.io/resume/</id>
+
+        <updated>2020-11-14T17:21:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Position2019-now: DR1 CNRS and researcher at Léon Bérard cancer center2013-2019: DR2 CNRS and researcher at Léon Bérard cancer center (DR means Directeur de Recherche or Senior Permanent Researcher)2008-2013: CR1 CNRS and researcher at Léon Bérard&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="position">Position</h2>
+<ul>
+<li><strong>2019-now</strong>: DR1 <a href="http://www.cnrs.fr/">CNRS</a> and researcher at <a href="http://www.lyon.fnclcc.fr/">Léon Bérard cancer center</a></li>
+<li><strong>2013-2019</strong>: DR2 <a href="http://www.cnrs.fr/">CNRS</a> and researcher at <a href="http://www.lyon.fnclcc.fr/">Léon Bérard cancer center</a><br>(DR means <em>Directeur de Recherche</em> or <em>Senior Permanent Researcher</em>)</li>
+<li><strong>2008-2013</strong>: CR1 <a href="http://www.cnrs.fr/">CNRS</a> and researcher at <a href="http://www.lyon.fnclcc.fr/">Léon Bérard cancer center</a><br>(CR means <em>Chargé de Recherche</em> or <em>Permanent Researcher</em>)</li>
+<li><strong>2004-2008</strong>: researcher at <a href="http://www.lyon.fnclcc.fr/">Léon Bérard cancer center</a></li>
+<li><strong>2000-2004</strong>: assistant professor at <a href="http://www.univ-lyon2.fr/">université Lumière Lyon 2</a></li>
+</ul>
+<h2 id="education-and-degrees"><a href="http://localhost:4000/cv/#Education-and-Degrees" class="headerlink" title="Education and Degrees"></a>Education and Degrees</h2>
+<ul>
+<li><strong>2008: HDR (Habilitation à Diriger les Recherches)</strong><br>Université Claude Bernard Lyon 1.<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/hdr/hdr.pdf">Imagerie dynamique et simulations Monte-Carlo pour la radiothérapie guidée par l’image</a></li>
+<li><strong>2000: PhD</strong><br>Université Lumière Lyon 2.<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/these/these-dsarrut.pdf">Recalage multimodal et plate-forme d’imagerie médicale à accès distant</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Projects</title>
+        <author>
+            <name>David Sarrut</name>
+        </author>
+        <link href="https://dsarrut.github.io/dsarrut.github.io/projects/"/>
+        <id>https://dsarrut.github.io/dsarrut.github.io/projects/</id>
+
+        <updated>2020-11-14T17:47:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                    2020-2024 Mocamed (ANR) Advanced Monte Carlo Methods for Medical Physics2020-2024 Popeye (EU. ERA Per Med). Personalised Optimisation of Prognostic and thErapeutic protocols with Lu-177&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><strong>2020-2024</strong> <span style="color: #169179;">Mocamed</span> (ANR) Advanced Monte Carlo Methods for Medical Physics</li>
+<li><strong>2020-2024</strong> <span style="color: #169179;">Popeye</span> (EU. ERA Per Med). Personalised Optimisation of Prognostic and thErapeutic protocols with Lu-177 for MNETs, through the development of advanced computational tools and a portable detection sYstEm</li>
+<li><strong>2020-2022</strong> <span style="color: #169179;">Delpel</span> (INSERM, INCa, Aviesan). Deep Learning for dose monitoring in EBRT of pelvic cancers.</li>
+<li><strong>2020-2022</strong> <span style="color: #169179;">Nadiam</span> (Région RA. Pack Ambition). NucleAr meDicine ImAging with Motion</li>
+<li><strong>2019-2021</strong> Kitware (indus.). Breathing motion correction in SPECT</li>
+<li><strong>2019-2021</strong> Philips (indus.). Quantification de l’Yttrium-90 par l’imagerie PET par simulation Monte Carlo.</li>
+<li><strong>2018-2023:</strong> <span style="color: #169179;">LYRICAN</span> Lyon Integrated Research Center. Resp. of PRI3 “Physical agents to analyse and overcome tumor plasticity at the macroscopic level”</li>
+<li><strong>2016-2018:</strong> <span style="color: #169179;">SPEDIV</span>. Single Photon Emission and Detection for In-Vivo Nanoparticles Quantification. PhysiCancer project.</li>
+<li><strong>2014-2018:</strong> <a href="http://tgate.univ-brest.fr/">t-Gate</a> aka <em>theranostic-GATE</em>. ANR project.</li>
+<li><strong>2014-2017:</strong> <a href="http://www.agence-nationale-recherche.fr/?Project=ANR-13-IS03-0002">Dexter</a>. ANR project.</li>
+<li><strong>2012-2014:</strong> MC-SMART (<em>Monte-Carlo SMall Animal Radiation Therapy</em>). Physi-Cancer project.</li>
+<li><strong>2012-2019:</strong> <a href="http://primes.universite-lyon.fr/">Labex PRIMES</a>. Physics, Radiobiology, Medical Imaging and Simulations. Resp. of WP5 “Modelling and simulation”.</li>
+<li><strong>2012-2017:</strong> <a href="http://www.cancer-lyric.com/en">LYRIC</a>. Lyon Integrated Research Center. Resp. of WP4 “Image guided local treatments”.</li>
+<li><strong>2010-2016:</strong> Elekta Lung MidP clinical trial. First patient octobre 2012.</li>
+<li><strong>2010-2014:</strong> <a href="http://envision.web.cern.ch/ENVISION/">ENVISION</a>. FP7 Cooperation</li>
+<li><strong>2009-2012:</strong> <a href="http://hgate.opengatecollaboration.org/">hGate</a>. ANR Cosinus</li>
+<li><strong>2009-2013:</strong> <a href="http://www.cern.ch/ULICE">ULICE</a>. FP7 Capacities Research Infrastructures</li>
+<li><strong>2008-2012:</strong> <a href="http://www.cern.ch/PARTNER">PARTNER</a>. FP7 Initial training network, Marie Curie</li>
+<li><strong>2008-2009:</strong> Philips. Lung ventilation study</li>
+<li><strong>2007-2011:</strong> <a href="http://www.dosisoft.com/dosisoft-imagerie/projets-partenariats/miniara.htm">Miniara</a>. Pôle de compétitivité Medicen</li>
+<li><strong>2006-2010:</strong> <a href="http://localhost:4000/projects/">fGate</a>. ANR “Calcul intensif et simulation”</li>
+<li><strong>2006-2010:</strong> <a href="http://localhost:4000/projects/">Simca2</a>. ANR “blanche”</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>PhD and post-doc advisory</title>
+        <author>
+            <name>David Sarrut</name>
+        </author>
+        <link href="https://dsarrut.github.io/dsarrut.github.io/phd-and-post-doc-advisory/"/>
+        <id>https://dsarrut.github.io/dsarrut.github.io/phd-and-post-doc-advisory/</id>
+
+        <updated>2020-11-14T17:45:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Current PhDsLaure Vergnaud (start 2020-09) - Co-supervisor: Jean-Noel Badel. Dosimetry for 177Lu treatments in internal radiotherapy based on imaging and Monte Carlo simulationsAntoine&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="current-phds"><a href="http://localhost:4000/phd/#Current-PhDs" class="headerlink" title="Current PhDs"></a>Current PhDs</h2>
+<ul>
+<li><strong>Laure  Vergnaud</strong> (start 2020-09) - <em>Co-supervisor: Jean-Noel Badel.</em><br>Dosimetry for 177Lu treatments in internal radiotherapy based on imaging and Monte Carlo simulations</li>
+<li><strong>Antoine Robert</strong> (start 2018-10) - <em>Co-supervisor: Simon Rit.</em><br>Breathing motion correction in SPECT quantitation</li>
+<li><strong>Joey Labour</strong> (start 2018-10) - <em>Co-supervisor: Jean-Noel Badel.</em><br>Investigating Y- 90 digital PET imaging with Monte-Carlo simulations and machine-learning</li>
+</ul>
+<h2 id="past-phd-defended-phd-thesis"><a href="http://localhost:4000/phd/#Past-PhD-defended-phd-thesis" class="headerlink" title="Past PhD (defended phd thesis)"></a>Past PhD (defended phd thesis)</h2>
+<p>(15) <strong>2019-10 Yue-Meng Feng</strong><br>Modeling and regularization in tomographic reconstruction for Compton camera imaging<br><em>Co-supervisor: Voichita Maxim, Jean-Michel Létang.</em></p>
+<p>(14) <strong>2019-01 Alessio Elia</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/AlessioElia-phd-2019.pdf">Gate as a Geant4-based Monte-Carlo platform to support medical commissioning and Treatment Planning System verification in scanned ion beam therapy.</a><br><em>Co-supervisor: Loic Grevillot.</em></p>
+<p>(13) <strong>2017-05 Brent Fokke Bram Huisman</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/BrentHuisman_PhD_2017.pdf">Accelerated Clinical Prompt Gamma simulations for Proton Therapy.</a><br><em>Co-supervisor: Etienne Testa.</em></p>
+<p>(12) <strong>2015-11 Marie Fargier-Voiron</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/articles/FargierVoiron-phd-2015.pdf">Optimisation et évaluation des performances d’un système à ultrasons en radiothérapie adaptative.</a><br><em>Co-supervisor: Marie-Claude Biston.</em></p>
+<p>(11) <strong>2013-12 Vivien Delmon</strong><br><a href="https://www.creatis.insa-lyon.fr/site/en/www.creatis.insa-lyon.fr/_srit/biblio/delmon2013a.html">Recalage déformable de projections de scanner X à faisceau conique.</a><br><em>Co-supervisor: S. Rit.</em></p>
+<p>(10) <strong>2013-11 Gauthier Bouilhol</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/articles/Bouilhol-phd-2013.pdf">Incertitudes et mouvement dans le traitement des tumeurs pulmonaires: de la radiothérapie à l’hadronthérapie.</a><br><em>Co-supervisor: M. Ayadi.</em></p>
+<p>(9) <strong>2011-12 Louise Grezes-Besset</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/LouiseGrezesBesset_PHD_2011.pdf">Suivi de la respiration par imagerie multimodalité dans le cadre de la radiothérapie du poumon.</a><br><em>Co-supervisor: P. Clarysse.</em></p>
+<p>(8) <strong>2011-10 Marie Vidal</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/MarieVidal_PhD_2011.pdf">Evolution des modèles de calcul pour le logiciel de planification de la dose en Protonthérapie.</a><br><em>Co-supervisor: P. François.</em></p>
+<p>(7) <strong>2011-10 Loic Grevillot</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/LoicGrevillot_PhD_2011.pdf">Development of Monte Carlo platform to assess patient dose distribution for proton and carbon ion therapy.</a><br><em>Co-supervisor: N. Freud.</em></p>
+<p>(6) <strong>2010-07 Jef Vandemeulebroucke</strong><br><a href="http://localhost:4000/phd/(http://www.creatis.insa-lyon.fr/~dsarrut/phd/JefVandemeulebroucke_PHD_2010.pdf">Breathing thorax modeling from 4D imaging for dynamic radiotherapeutic dose estimation.</a><br><em>Co-supervisor: P. Clarysse.</em></p>
+<p>(5) <strong>2010-06 Nabil Zahra</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/NabilZahra_PHD_2010.pdf">Mesure de dose en thérapie par ions carbone: mise en place d’un dispositif expérimental et simulations Monte­-Carlo.</a><br><em>Co-supervisor: P. Lautesse.</em></p>
+<p>(4) <strong>2009-12 Jean-Noel Badel</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/JeanNoelBadel_PHD_2009.pdf">Contrôle dosimétrique des traitements de radiothérapie par simulation Monte Carlo de l’image de dose portale transmise.</a><br><em>Co-supervisor: I. Magnin.</em></p>
+<p>(3) <strong>2007-11 Myriam Ayadi</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/MyriamAyadi_PHD_2007.pdf">Dosimétrie dynamique (4D) pour le traitement du cancer du poumon.</a><br><em>Co-supervisor: M. Boutemeur.</em></p>
+<p>(2) <strong>2007-09 Simon Rit</strong><br><a href="http://liris.cnrs.fr/Documents/Liris-3354.pdf">Acquisition d’images tomodensitométriques dynamiques (4D) à partir d’un tomographe à géométrie conique.</a><br><em>Co-supervisor: S. Miguet.</em></p>
+<p>(1) <strong>2006-02 Vlad Boldea</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/VladBoldea_PhD_2006.pdf">Intégration de la respiration en radiothérapie: apport du recalage déformable d’images.</a><br><em>Co-supervisor: S. Miguet.</em></p>
+<h2 id="postdoc-engineer-advisor"><a href="http://localhost:4000/phd/#PostDoc-Engineer-advisor" class="headerlink" title="PostDoc / Engineer advisor"></a>PostDoc / Engineer advisor</h2>
+<ul>
+<li>2020 - <strong>Nelly Abbani</strong></li>
+<li>2020 - <strong>David Benveniste</strong></li>
+<li>2018 - 2020 <strong>Ane Etxebeste</strong></li>
+<li>2017 - 2019 <strong>Olga Kochebina</strong></li>
+<li>2015 - 2017 <strong>Thomas Cajgfinger</strong></li>
+<li>2015 - <strong>Thomas Baudier</strong> (research engineer)</li>
+<li>2014 - 2015 <strong>Dominik Spinczyk</strong></li>
+<li>2013 - 2015 <strong>Agata Krason</strong> (research engineer)</li>
+<li>2013 - 2015 <strong>François Smekens</strong></li>
+<li>2012 - 2012 <strong>Rémi Blanc</strong></li>
+<li>2012 - 2015 <strong>Benoit Presles</strong></li>
+<li>2011 - 2012 <strong>Mathieu Fernandes</strong></li>
+<li>2010 - 2012 <strong>Pierre Gueth</strong></li>
+<li>2010 - 2013 <strong>Romulo Pinho</strong> (research engineer)</li>
+<li>2007 - 2009 <strong>Joel Schaerer</strong></li>
+<li>2007 - 2009 <strong>Vlad Boldea</strong></li>
+<li>2007 - 2010 <strong>Thibault Frisson</strong></li>
+</ul>
+<h2 id="participation-to-phdhdr-committees"><a href="http://localhost:4000/phd/#Participation-to-PhD-HDR-committees" class="headerlink" title="Participation to PhD/HDR committees"></a>Participation to PhD/HDR committees</h2>
+<h3 id="2020"><a href="http://localhost:4000/phd/#2020" class="headerlink" title="2020"></a>2020</h3>
+<ul>
+<li><strong>[HDR]</strong> <strong>Nicolas Arbor</strong> (Strasbourg)<br>Radioprotection et Risque Radiologique des Faibles Doses de Rayonnements Ionisants</li>
+<li><strong>Hatem Younes</strong> (Grenoble)<br>Détection d’aiguilles et de grains dans les images ultrasonores pour la curiethérapie dynamique</li>
+<li><strong>Nérée Payan</strong> (Dijon)<br>Imagerie TEP au 18F-FDG du cancer du sein : étude combinée de la perfusion tumorale et du métabolisme glucidique pour la caractérisation tumorale et la prédiction de la réponse à la chimiothérapie néoadjuvante</li>
+<li><strong>Natalia Kostiukhina</strong> (Vienna)<br>4D framework implementation towards investigating ion beam treatment techniques for intra-fractionally moving targets</li>
+</ul>
+<h3 id="2019"><a href="http://localhost:4000/phd/#2019" class="headerlink" title="2019"></a>2019</h3>
+<ul>
+<li><strong>Brent van der Heyden</strong> (Maastricht)<br>Advanced Computed Tomography imaging in radiotherapy</li>
+<li><strong>Rubén Sànchez de la Rosa</strong> (Paris)<br>Dual-energy CT tissue segmentation methods for Monte Carlo dose calculations in proton therapy</li>
+<li><strong>Carlotta Trigila</strong> (Orsay)<br>Development of a portable gamma imaging system for absorbed radiation dose control in molecular radiotherapy</li>
+<li><strong>[HDR]</strong> <strong>Christelle Huet</strong> (Saclay)<br>Accidents radiologiques et radiothérapie stéréotaxique : développements méthodologiques pour une dosimétrie optimisée</li>
+<li><strong>Isabel Almeida</strong> (Maastricht)<br>Dual-energy CT tissue segmentation methods for Monte Carlo dose calculations in proton therapy</li>
+<li><strong>Jonathan Tranel</strong> (Toulouse)<br>Apport de l’imagerie multimodale dans la caractérisation de la distribution de sources radioactives de 166Ho dans un contexte de microcuriethérapie</li>
+</ul>
+<h3 id="2018"><a href="http://localhost:4000/phd/#2018" class="headerlink" title="2018"></a>2018</h3>
+<ul>
+<li><strong>Luis Ammour</strong> (Orsay)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Luis-Ammour-2018.pdf">Développement d’une sonde intracérébrale à pixels actifs pour l’imagerie bêta du cerveau du rat libre de ses mouvements</a></li>
+<li><strong>Tony Younes</strong> (Toulouse)<br>Méthodologie pour la détermination de la dose absorbée dans le cas de champs non standards avec et sans hétérogénéités pour des faisceaux de photons de haute énergie</li>
+<li><strong>Bastien Rigaud</strong> (Rennes)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Bastien-Rigaud-2018.pdf">Radiothérapie adaptative guidée par l’imagerie anatomique</a></li>
+<li><strong>[HDR]</strong> <strong>Jean-François Adam</strong> (Grenoble)<br>Medical physics issues in synchrotron radiation imaging and radiotherapy modalities</li>
+</ul>
+<h3 id="2017"><a href="http://localhost:4000/phd/#2017" class="headerlink" title="2017"></a>2017</h3>
+<ul>
+<li><strong>Sonia Selmi</strong> (Grenoble)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Sonia-Selmi-2017.pdf">Navigation en temps-réel pour la biopsie de prostate</a></li>
+<li><strong>Richard Brown</strong> (Toulouse)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Richard-Brown-2017.pdf">Microbrachytherapy treatment planning</a></li>
+<li><strong>Konstantinos Mountris</strong> (Brest)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Konstantinos-Mountris-2017.pdf">Modélisation biomécanique pour la radiothérapie peropératoire de la prostate</a></li>
+<li><strong>[HDR]</strong> <strong>Nick Reynaert</strong> (Lille)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Nick-Reynaert-2017.pdf">Intégration d’une plateforme Monte Carlo et Imagerie par Résonance Magnétique pour augmenter la qualité des données médicales dans le cadre de la radiothérapie personnalisée</a></li>
+</ul>
+<h3 id="2016"><a href="http://localhost:4000/phd/#2016" class="headerlink" title="2016"></a>2016</h3>
+<ul>
+<li><strong>Paul Mignon</strong> (Grenoble)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Paul-Mignon-2017.pdf">Guidage robotisé d’une aiguille flexible sous échographie 3D pour la curiethérapie de prostate</a></li>
+<li><strong>Ludovic Demarzi</strong> (Orsay)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Ludovic-Demarzi-2016.pdf">Effets physiques et biologiques des faisceaux de protons balayés : mesures et modélisation pour des balayages séquentiels à haut débit</a></li>
+<li><strong>Benjamin Demol</strong> (Lille)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Benjamin-Demol-2016.pdf">Méthodes d’intégration des images à résonance magnétique dans les calculs de dose Monte Carlo appliqués à la stéréotaxie intracrânienne</a></li>
+<li><strong>Mohamed Nassef</strong> (Rennes)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Mohamed-Nassef-2016.pdf">Monitoring de dose pour la radiothérapie adaptative du cancer de la prostate</a></li>
+<li><strong>Hélène Feuillâtre</strong> (Rennes)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Helene-Feuillatre-2016.pdf">Détermination automatique de l’incidence optimale pour l’observation des lésions coronaires en imagerie rotationnelle R-X.</a></li>
+<li><strong>Isabelle Fonteille</strong> (Grenoble)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Isabelle-Fonteille-2016.pdf">Etude et conception d’un détecteur 2D transparent permettant le suivi en temps réel de l’administration des traitements RCMI</a></li>
+</ul>
+<h3 id="2015"><a href="http://localhost:4000/phd/#2015" class="headerlink" title="2015"></a>2015</h3>
+<ul>
+<li><strong>Estelle Hilaire</strong> (Lyon)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Estelle-Hilaire-2015.pdf">Simulation et reconstruction 3D à partir de caméra Compton pour l’hadronthérapie : influence des paramètres d’acquisition</a></li>
+<li><strong>Christina Boydev</strong> (Valancienne)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Christina-Boydev-2015.pdf">Automatic segmentation of cone-beam computed tomography images for prostate cancer radiation therapy</a></li>
+<li><strong>Paul Gimenez</strong> (Grenoble)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Paul-Gimenez-2015.pdf">Radiothérapie par photoactivation de nanoparticules et effet Mössbauer</a></li>
+<li><strong>Sara Marcatili</strong> (Toulouse)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Sara-Marcatili-2015.pdf">Multi-scale dosimetry for Targeted Radionuclide Therapy optimisation</a></li>
+<li><strong>Daphnée Villoing</strong> (Toulouse)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Daphnee-Villoing-2015.pdf">Apport du code Monte-Carlo GATE pour la dosimétrie en Radiothérapie Interne Vectorisée: imagerie et calculs dosimétriques</a></li>
+<li><strong>Wiviann Ottosson</strong> (Copenhagen)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Wiviann-Ottosson-2015.pdf">Improved radiotherapy for locally advanced Non-Small Cell Lung Carcinoma (NSCLC) patients</a></li>
+</ul>
+<h3 id="2014"><a href="http://localhost:4000/phd/#2014" class="headerlink" title="2014"></a>2014</h3>
+<ul>
+<li><strong>James Martin</strong> (Londres)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/James-Martin-2014.pdf">Surrogate-driven motion models from cone-beam CT for motion management in radiotherapy treatments</a></li>
+<li><strong>Isabelle Chabert</strong> (Orsay)<br>Développement et validation d’un modèle de sources virtuelles adapté à la prédiction d’images EPID pour le contrôle qualité des traitements de RCMI</li>
+<li><strong>Layal Obeid</strong> (Grenoble)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Layal-Obeid-2014.pdf">Biodistribution d’un agent de contraste iodé et impacts dosimétriques: étude pour la radiothérapie stéréotaxique par rayonnement synchrotron</a></li>
+<li><strong>Pawel Lubniewski</strong> (Clermont-Ferrand)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Pawel-Lubniewski-2014.pdf">Recalage 3D/2D d’images pour le traitement endovasculaire des dissections aortiques</a></li>
+<li><strong>Kevin Bianchi</strong> (Clermont-Ferrand)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Kevin-Bianchi-2014.pdf">Segmentation interactive d’images cardiaques dynamiques</a></li>
+<li><strong>Sophie Ribes</strong> (Toulouse)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Sophie-Ribes-2014.pdf">Développement d’une méthode de détermination de la dose individuelle absorbée en mamographie numérique par utilisation d’imageries multi-modales</a></li>
+<li><strong>Caroline Noblet</strong> (Nantes)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Caroline-Noblet-2014.pdf">Calcul tridimensionnel de la dose absorbée par simulation Monte Carlo GATE pour la radiothérapie guidée par l’image dédiée au petit animal</a></li>
+<li><strong>Guillaume Bernard</strong> (Bruxelles)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Guillaume-Bernard-2014.pdf">Incremental organ segmentation with machine learning techniques Application to radiotherapy</a></li>
+<li><strong>Benhalouche Saadia</strong> (Brest)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Saadia-Benhalouche-2014.pdf">Simulation Monte Carlo GATE en radiothérapie externe pour des faisceaux complexes en IMRT</a></li>
+<li><strong>Marie Charoy</strong> (Lille)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Marie-Charoy-2014.pdf">Incertitudes des traitements des lésions hépatiques en radiothérapie stéréotaxique avec asservissement à la respiration</a></li>
+<li><strong>Quang Trung Pham</strong> (Clermont Ferrand)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Quang-Trung-Pham-2014.pdf">Couplage et validation de l’extension Geant4-DNA dans la plateforme de simulation Monte Carlo GATE pour l’irradiation de molécules d’ADN dans un environnement de grille de calcul</a></li>
+<li><strong>Frauke Roellinghof</strong> (Lyon)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Frauke-Roellinghoff-2014.pdf">Design and Implementation of a Prompt-Gamma Camera for Real-Time Monitoring of Ion Beam Therapy</a></li>
+</ul>
+<h3 id="2013"><a href="http://localhost:4000/phd/#2013" class="headerlink" title="2013"></a>2013</h3>
+<ul>
+<li><strong>Guillaume Cazoulat</strong> (Rennes)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Guillaume-Cazoulat-2013.pdf">Radiothérapie guidée par l’image du cancer de la prostate: vers l’intégration des déformations anatomiques</a></li>
+<li><strong>Marine Breuilly</strong> (Nice)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Marine-Breuilly-2013.pdf">Small animal 4D SPECT Imaging : Assessment of Respiratory Motion and Iodide Biodistribution</a></li>
+<li><strong>Sorina Camarasu</strong> (Lyon)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Sorina-Camarasu-2013.pdf">Exploitation d’infrastructures hétérogènes de calcul distribué pour la simulation Monte-Carlo dans le domaine médical</a></li>
+<li><strong>Johannes Hopfgartner</strong> (Vienna)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/Johannes-Hopfgartner-2013.pdf">Light ion beam therapy: aspects of treatment plan robustness and combined modality treatments</a></li>
+<li><strong>David DidierLaurent</strong> (Toulouse)<br><a href="https://www.creatis.insa-lyon.fr/~dsarrut/phd-reviews/David-DidierLaurent-2013.pdf">Mise en cohérence spatiale et temporelle de données TEP-TDM acquises en respiration libre pour l’évaluation de thérapeutiques du cancer pulmonaire</a></li>
+</ul>
+<h3 id="older"><a href="http://localhost:4000/phd/#older" class="headerlink" title="older"></a>older</h3>
+<p>Maybe one day …</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I like to code it, code it</title>
+        <author>
+            <name>David Sarrut</name>
+        </author>
+        <link href="https://dsarrut.github.io/dsarrut.github.io/i-like-to-code-it-code-it/"/>
+        <id>https://dsarrut.github.io/dsarrut.github.io/i-like-to-code-it-code-it/</id>
+
+        <updated>2020-11-14T17:42:39+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Open-Source software developmentVV This is an image viewer, specialized to 3D and 4D CT images and image registration evaluation. Very simple and fast.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="open-source-software-development">Open-Source software development</h2>
+<p><a href="https://github.com/open-vv/vv">VV</a><br>This is an image viewer, specialized to 3D and 4D CT images and image registration evaluation. Very simple and fast.</p>
+<p><a href="https://github.com/opengate/gate">GATE</a><br>A Monte-Carlo simulation software simulations of preclinical and clinical Scans in emission tomography, transmission tomography and Radiation Therapy (RT). I am the initiator the extension of Gate to the RT domain. <a href="http://github.com/OpenGATE/Gate">Github page</a></p>
+<p><a href="http://gatelab.creatis.insa-lyon.fr/">Gatelab</a><br>The GateLab is an end-user application allowing researchers to easily execute GATE on a computing grid (EGEE). It consists of a web server based on Moteur and of a Java client using VBrowser as GUI for the logic catalog (LFC) of the EGEE grid.</p>
+<p><a href="https://github.com/OpenSyd/syd">SYD</a><br>Work in progress. Do not use it !<br>SYD is a command line environnement and a C++ toolkit to perform image processing tasks on a database of medical images. It is initially developed to manage SPECT/CT images and perform tasks such as computing activity or integrated activity in various ROIs, in the field of Target Radionuclide Therapy and nuclear medicine.</p>
+<h2 id="and-open-data"><a href="http://localhost:4000/code/#%E2%80%A6-and-Open-Data" class="headerlink" title="… and Open Data"></a>… and Open Data</h2>
+<p><a href="https://www.creatis.insa-lyon.fr/rio/popi-model">POPI</a><br>We believe research on deformable image registration (DIR) of the lungs will greatly benefit from making image and validation data publicly available. Several 4D CT data sets, acquired at the Léon Bérard Cancer Center, can be downloaded here for use in your research. Along with the images, we provide large sets of manually identified landmarks, allowing you to validate your motion estimation.</p>
+<p><a href="https://www.creatis.insa-lyon.fr/lymph-stations-atlas">Lymph stations</a><br>We provide the dataset that have been used in the publication [Sarrut 2014, Lynch 2013, Pitson 2012]. This dataset consists on thoracic CT images of five lung cancer patients on which three experts (RL, LC, GP) consensually delineated lymph nodes stations 1 to 11, following the new IASLC stations definition [Rusch et al 2009]. Several anatomical structures (such as Aorta, vessels etc) are also available.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Welcome</title>
         <author>
             <name>David Sarrut</name>
         </author>
-        <link href="https://dsarrut.github.io/gh-pages/welcome/"/>
-        <id>https://dsarrut.github.io/gh-pages/welcome/</id>
+        <link href="https://dsarrut.github.io/dsarrut.github.io/welcome/"/>
+        <id>https://dsarrut.github.io/dsarrut.github.io/welcome/</id>
 
-        <updated>2020-11-14T14:45:57+01:00</updated>
+        <updated>2020-11-14T17:40:53+01:00</updated>
             <summary>
                 <![CDATA[
                     Who am I ?Researcher at CNRS Leader of CREATIS ‘Tomoradio’ team (Tomographic imaging and radiation therapy) David Sarrut Centre de lutte contre le cancer Léon&hellip;
@@ -26,12 +292,13 @@
         <content type="html">
             <![CDATA[
                 <h2 id="who-am-i">Who am I ?</h2>
-<p>Researcher at CNRS</p>
-<p>Leader of <a href="http://www.creatis.insa-lyon.fr/">CREATIS</a> ‘Tomoradio’ team (<em>Tomographic imaging and radiation therapy</em>)</p>
+<p>Researcher at CNRS </p>
+<p>Leader of <a href="http://www.creatis.insa-lyon.fr/">CREATIS</a> ‘<a href="https://www.creatis.insa-lyon.fr/site7/en/tomoradio" target="_blank" rel="noopener noreferrer">Tomoradio</a>’ team (<em>Tomographic imaging and radiation therapy</em>)</p>
 <h2 id="research-topics"><a href="http://localhost:4000/#Research-topics" class="headerlink" title="Research topics"></a>Research topics</h2>
 <ul>
-<li>Image-Guided Radiation Therapy (IGRT).</li>
-<li>Monte-Carlo simulations of radiation therapy treatments, both with conventional photon beams and with particle therapy.</li>
+<li>Monte-Carlo simulations </li>
+<li>Nuclear imaging</li>
+<li>Image-Guided Radiation Therapy (IGRT)</li>
 </ul>
 <h2 id="contacts"><a href="http://localhost:4000/#Contacts" class="headerlink" title="Contacts"></a>Contacts</h2>
 <p>David Sarrut<br>Centre de lutte contre le cancer Léon Bérard<br>28 rue Laënnec, 69373 Lyon cedex 08<br>Laboratoire CREATIS UMR CNRS 5220, Inserm U 1044<br>Tel : 04 78 78 51 51 / 06 74 72 05 42</p>
@@ -43,8 +310,8 @@
         <author>
             <name>David Sarrut</name>
         </author>
-        <link href="https://dsarrut.github.io/gh-pages/publications/"/>
-        <id>https://dsarrut.github.io/gh-pages/publications/</id>
+        <link href="https://dsarrut.github.io/dsarrut.github.io/publications/"/>
+        <id>https://dsarrut.github.io/dsarrut.github.io/publications/</id>
 
         <updated>2020-11-14T14:47:21+01:00</updated>
             <summary>
