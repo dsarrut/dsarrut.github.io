@@ -3,7 +3,7 @@
     <title>David Sarrut</title>
     <link href="https://dsarrut.github.io/feed.xml" rel="self" />
     <link href="https://dsarrut.github.io" />
-    <updated>2020-11-14T17:47:12+01:00</updated>
+    <updated>2020-11-14T18:35:52+01:00</updated>
     <author>
         <name>David Sarrut</name>
     </author>
@@ -78,7 +78,7 @@
         <link href="https://dsarrut.github.io/projects/"/>
         <id>https://dsarrut.github.io/projects/</id>
 
-        <updated>2020-11-14T17:47:12+01:00</updated>
+        <updated>2020-11-14T18:35:52+01:00</updated>
             <summary>
                 <![CDATA[
                     2020-2024 Mocamed (ANR) Advanced Monte Carlo Methods for Medical Physics2020-2024 Popeye (EU. ERA Per Med). Personalised Optimisation of Prognostic and thErapeutic protocols with Lu-177&hellip;
@@ -86,7 +86,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <ul>
+                <figure class="post__image"><img loading="lazy"  src="https://dsarrut.github.io/media/posts/5/professionell_langzeitarchivierungProjekte_buehne.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-xs.jpg 300w ,https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-sm.jpg 480w ,https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-md.jpg 768w ,https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-lg.jpg 1024w ,https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-xl.jpg 1360w ,https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-2xl.jpg 1600w"  alt="" width="186" height="105"></figure>
+<ul>
 <li><strong>2020-2024</strong> <span style="color: #169179;">Mocamed</span> (ANR) Advanced Monte Carlo Methods for Medical Physics</li>
 <li><strong>2020-2024</strong> <span style="color: #169179;">Popeye</span> (EU. ERA Per Med). Personalised Optimisation of Prognostic and thErapeutic protocols with Lu-177 for MNETs, through the development of advanced computational tools and a portable detection sYstEm</li>
 <li><strong>2020-2022</strong> <span style="color: #169179;">Delpel</span> (INSERM, INCa, Aviesan). Deep Learning for dose monitoring in EBRT of pelvic cancers.</li>
@@ -121,7 +122,7 @@
         <link href="https://dsarrut.github.io/phd-and-post-doc-advisory/"/>
         <id>https://dsarrut.github.io/phd-and-post-doc-advisory/</id>
 
-        <updated>2020-11-14T17:45:14+01:00</updated>
+        <updated>2020-11-14T18:31:26+01:00</updated>
             <summary>
                 <![CDATA[
                     Current PhDsLaure Vergnaud (start 2020-09) - Co-supervisor: Jean-Noel Badel. Dosimetry for 177Lu treatments in internal radiotherapy based on imaging and Monte Carlo simulationsAntoine&hellip;
@@ -129,7 +130,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="current-phds"><a href="http://localhost:4000/phd/#Current-PhDs" class="headerlink" title="Current PhDs"></a>Current PhDs</h2>
+                <h2 id="current-phds"><a href="http://localhost:4000/phd/#Current-PhDs" class="headerlink" title="Current PhDs"><figure class="post__image"><img loading="lazy"  src="https://dsarrut.github.io/media/posts/4/phd.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/media/posts/4/responsive/phd-xs.png 300w ,https://dsarrut.github.io/media/posts/4/responsive/phd-sm.png 480w ,https://dsarrut.github.io/media/posts/4/responsive/phd-md.png 768w ,https://dsarrut.github.io/media/posts/4/responsive/phd-lg.png 1024w ,https://dsarrut.github.io/media/posts/4/responsive/phd-xl.png 1360w ,https://dsarrut.github.io/media/posts/4/responsive/phd-2xl.png 1600w"  alt="" width="290" height="290"></figure></a></h2>
+<h2>Current PhDs</h2>
 <ul>
 <li><strong>Laure  Vergnaud</strong> (start 2020-09) - <em>Co-supervisor: Jean-Noel Badel.</em><br>Dosimetry for 177Lu treatments in internal radiotherapy based on imaging and Monte Carlo simulations</li>
 <li><strong>Antoine Robert</strong> (start 2018-10) - <em>Co-supervisor: Simon Rit.</em><br>Breathing motion correction in SPECT quantitation</li>
@@ -256,7 +258,7 @@
         <link href="https://dsarrut.github.io/i-like-to-code-it-code-it/"/>
         <id>https://dsarrut.github.io/i-like-to-code-it-code-it/</id>
 
-        <updated>2020-11-14T17:42:39+01:00</updated>
+        <updated>2020-11-14T18:32:52+01:00</updated>
             <summary>
                 <![CDATA[
                     Open-Source software developmentVV This is an image viewer, specialized to 3D and 4D CT images and image registration evaluation. Very simple and fast.
@@ -264,7 +266,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="open-source-software-development">Open-Source software development</h2>
+                <h2><figure class="post__image"><img loading="lazy"  src="https://dsarrut.github.io/media/posts/3/1_PW6lORfJV-kEJ8T8Z5OjIQ_small.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/media/posts/3/responsive/1_PW6lORfJV-kEJ8T8Z5OjIQ_small-xs.png 300w ,https://dsarrut.github.io/media/posts/3/responsive/1_PW6lORfJV-kEJ8T8Z5OjIQ_small-sm.png 480w ,https://dsarrut.github.io/media/posts/3/responsive/1_PW6lORfJV-kEJ8T8Z5OjIQ_small-md.png 768w ,https://dsarrut.github.io/media/posts/3/responsive/1_PW6lORfJV-kEJ8T8Z5OjIQ_small-lg.png 1024w ,https://dsarrut.github.io/media/posts/3/responsive/1_PW6lORfJV-kEJ8T8Z5OjIQ_small-xl.png 1360w ,https://dsarrut.github.io/media/posts/3/responsive/1_PW6lORfJV-kEJ8T8Z5OjIQ_small-2xl.png 1600w"  alt="" width="228" height="87"></figure></h2>
+<h2>Open-Source software development</h2>
 <p><a href="https://github.com/open-vv/vv">VV</a><br>This is an image viewer, specialized to 3D and 4D CT images and image registration evaluation. Very simple and fast.</p>
 <p><a href="https://github.com/opengate/gate">GATE</a><br>A Monte-Carlo simulation software simulations of preclinical and clinical Scans in emission tomography, transmission tomography and Radiation Therapy (RT). I am the initiator the extension of Gate to the RT domain. <a href="http://github.com/OpenGATE/Gate">Github page</a></p>
 <p><a href="http://gatelab.creatis.insa-lyon.fr/">Gatelab</a><br>The GateLab is an end-user application allowing researchers to easily execute GATE on a computing grid (EGEE). It consists of a web server based on Moteur and of a Java client using VBrowser as GUI for the logic catalog (LFC) of the EGEE grid.</p>
@@ -313,7 +316,7 @@
         <link href="https://dsarrut.github.io/publications/"/>
         <id>https://dsarrut.github.io/publications/</id>
 
-        <updated>2020-11-14T14:47:21+01:00</updated>
+        <updated>2020-11-14T18:22:38+01:00</updated>
             <summary>
                 <![CDATA[
                     Ask me if you need the pdf versions.List on HALList on pubmedList on google scholarList on researcher gateList on publonsList as a pdf version (not necessarily up to date)List on&hellip;
@@ -331,6 +334,7 @@
 <li>List as a <a href="http://www.creatis.insa-lyon.fr/~dsarrut/publication-pedr-cnrs-2017.pdf">pdf version</a> (not necessarily up to date)</li>
 <li>List on the <a href="https://www.creatis.insa-lyon.fr/site7/en/view/biblio/author/237%20?cid_1=237">CREATIS lab page</a> (no more up to date)</li>
 </ul>
+<figure class="post__image"><img loading="lazy"  src="https://dsarrut.github.io/media/posts/1/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-xs.png 300w ,https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-sm.png 480w ,https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-md.png 768w ,https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-lg.png 1024w ,https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-xl.png 1360w ,https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-2xl.png 1600w"  alt="" width="627" height="212"></figure>
             ]]>
         </content>
     </entry>
