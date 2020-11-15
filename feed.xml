@@ -3,7 +3,7 @@
     <title>David Sarrut</title>
     <link href="https://dsarrut.github.io/feed.xml" rel="self" />
     <link href="https://dsarrut.github.io" />
-    <updated>2020-11-14T22:22:46+01:00</updated>
+    <updated>2020-11-15T09:38:02+01:00</updated>
     <author>
         <name>David Sarrut</name>
     </author>
@@ -123,7 +123,7 @@
         <link href="https://dsarrut.github.io/phd-and-post-doc-advisory/"/>
         <id>https://dsarrut.github.io/phd-and-post-doc-advisory/</id>
 
-        <updated>2020-11-14T18:31:26+01:00</updated>
+        <updated>2020-11-15T09:38:02+01:00</updated>
             <summary>
                 <![CDATA[
                     Current PhDsLaure Vergnaud (start 2020-09) - Co-supervisor: Jean-Noel Badel. Dosimetry for 177Lu treatments in internal radiotherapy based on imaging and Monte Carlo simulationsAntoine&hellip;
@@ -131,7 +131,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="current-phds"><a href="http://localhost:4000/phd/#Current-PhDs" class="headerlink" title="Current PhDs"><figure class="post__image"><img loading="lazy"  src="https://dsarrut.github.io/media/posts/4/phd.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/media/posts/4/responsive/phd-xs.png 300w ,https://dsarrut.github.io/media/posts/4/responsive/phd-sm.png 480w ,https://dsarrut.github.io/media/posts/4/responsive/phd-md.png 768w ,https://dsarrut.github.io/media/posts/4/responsive/phd-lg.png 1024w ,https://dsarrut.github.io/media/posts/4/responsive/phd-xl.png 1360w ,https://dsarrut.github.io/media/posts/4/responsive/phd-2xl.png 1600w"  alt="" width="290" height="290"></figure></a></h2>
+                <h2 id="current-phds"><a href="http://localhost:4000/phd/#Current-PhDs" class="headerlink" title="Current PhDs"><figure class="post__image"><img loading="lazy"  src="https://dsarrut.github.io/media/posts/4/phd022509s.gif" alt="" width="600" height="260"></figure></a></h2>
 <h2>Current PhDs</h2>
 <ul>
 <li><strong>Laure  Vergnaud</strong> (start 2020-09) - <em>Co-supervisor: Jean-Noel Badel.</em><br>Dosimetry for 177Lu treatments in internal radiotherapy based on imaging and Monte Carlo simulations</li>
@@ -139,7 +139,7 @@
 <li><strong>Joey Labour</strong> (start 2018-10) - <em>Co-supervisor: Jean-Noel Badel.</em><br>Investigating Y- 90 digital PET imaging with Monte-Carlo simulations and machine-learning</li>
 </ul>
 <h2 id="past-phd-defended-phd-thesis"><a href="http://localhost:4000/phd/#Past-PhD-defended-phd-thesis" class="headerlink" title="Past PhD (defended phd thesis)"></a>Past PhD (defended phd thesis)</h2>
-<p>(15) <strong>2019-10 Yue-Meng Feng</strong><br>Modeling and regularization in tomographic reconstruction for Compton camera imaging<br><em>Co-supervisor: Voichita Maxim, Jean-Michel Létang.</em></p>
+<p>(15) <strong>2019-10 Yue-Meng Feng</strong><br><a href="https://tel.archives-ouvertes.fr/tel-02900652/document">Modeling and regularization in tomographic reconstruction for Compton camera imaging</a><br><em>Co-supervisor: Voichita Maxim, Jean-Michel Létang.</em></p>
 <p>(14) <strong>2019-01 Alessio Elia</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/AlessioElia-phd-2019.pdf">Gate as a Geant4-based Monte-Carlo platform to support medical commissioning and Treatment Planning System verification in scanned ion beam therapy.</a><br><em>Co-supervisor: Loic Grevillot.</em></p>
 <p>(13) <strong>2017-05 Brent Fokke Bram Huisman</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/BrentHuisman_PhD_2017.pdf">Accelerated Clinical Prompt Gamma simulations for Proton Therapy.</a><br><em>Co-supervisor: Etienne Testa.</em></p>
 <p>(12) <strong>2015-11 Marie Fargier-Voiron</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/articles/FargierVoiron-phd-2015.pdf">Optimisation et évaluation des performances d’un système à ultrasons en radiothérapie adaptative.</a><br><em>Co-supervisor: Marie-Claude Biston.</em></p>
