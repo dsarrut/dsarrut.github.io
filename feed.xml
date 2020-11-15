@@ -3,7 +3,7 @@
     <title>David Sarrut</title>
     <link href="https://dsarrut.github.io/feed.xml" rel="self" />
     <link href="https://dsarrut.github.io" />
-    <updated>2020-11-15T09:44:13+01:00</updated>
+    <updated>2020-11-15T10:24:35+01:00</updated>
     <author>
         <name>David Sarrut</name>
     </author>
@@ -287,23 +287,18 @@
         <link href="https://dsarrut.github.io/welcome/"/>
         <id>https://dsarrut.github.io/welcome/</id>
 
-        <updated>2020-11-14T22:22:46+01:00</updated>
+        <updated>2020-11-15T10:24:35+01:00</updated>
             <summary>
                 <![CDATA[
-                    Who am I ?Researcher at CNRS Leader of CREATIS ‘Tomoradio’ team (Tomographic imaging and radiation therapy) David Sarrut Centre de lutte contre le cancer Léon&hellip;
+                    Who am I ?Researcher at CNRS Leader of CREATIS ‘Tomoradio’ team (Tomographic imaging and radiation therapy) Monte-Carlo simulations Nuclear imaging Image-Guided Radiation Therapy (IGRT) David&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Who am I ?</h2>
-<p>Researcher at CNRS </p>
-<p>Leader of <a href="http://www.creatis.insa-lyon.fr/">CREATIS</a> ‘<a href="https://www.creatis.insa-lyon.fr/site7/en/tomoradio" target="_blank" rel="noopener noreferrer">Tomoradio</a>’ team (<em>Tomographic imaging and radiation therapy</em>)</p>
+<p>Researcher at CNRS <br>Leader of <a href="http://www.creatis.insa-lyon.fr/">CREATIS</a> ‘<a href="https://www.creatis.insa-lyon.fr/site7/en/tomoradio" target="_blank" rel="noopener noreferrer">Tomoradio</a>’ team (<em>Tomographic imaging and radiation therapy</em>)</p>
 <h2 id="research-topics"><a href="http://localhost:4000/#Research-topics" class="headerlink" title="Research topics"></a>Research topics</h2>
-<ul>
-<li>Monte-Carlo simulations </li>
-<li>Nuclear imaging</li>
-<li>Image-Guided Radiation Therapy (IGRT)</li>
-</ul>
+<p>Monte-Carlo simulations <br>Nuclear imaging<br>Image-Guided Radiation Therapy (IGRT)</p>
 <h2 id="contacts"><a href="http://localhost:4000/#Contacts" class="headerlink" title="Contacts"></a>Contacts</h2>
 <p>David Sarrut<br>Centre de lutte contre le cancer Léon Bérard<br>28 rue Laënnec, 69373 Lyon cedex 08<br>Laboratoire CREATIS UMR CNRS 5220, Inserm U 1044<br>Tel : 04 78 78 51 51 / 06 74 72 05 42</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://dsarrut.github.io/media/posts/2/cnrs-small.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-xs.png 300w ,https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-sm.png 480w ,https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-md.png 768w ,https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-lg.png 1024w ,https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-xl.png 1360w ,https://dsarrut.github.io/media/posts/2/responsive/cnrs-small-2xl.png 1600w"  alt="" width="300" height="300"></figure>
