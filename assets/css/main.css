@@ -3424,11 +3424,6 @@ img {
   display: inline-block;
   position: relative;
 }
-.post__image > img {
-  display: block;
-  height: auto;
-  width: 100%;
-}
 .post__image > figcaption {
   font-size: 0.8rem;
   margin-top: 0.5rem;
@@ -3451,6 +3446,9 @@ img {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+}
+.post__image--center img {
+  display: inline-block;
 }
 .post__image--wide {
   display: block;
@@ -3658,6 +3656,44 @@ img {
 .post__bio > div {
   line-height: 1.6;
   font-size: 0.9rem;
+}
+.post__video, .post__iframe {
+  position: relative;
+  display: block;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  overflow: hidden;
+  padding: 0;
+  width: 100%;
+}
+@media screen and (max-width: 736px) {
+  .post__video, .post__iframe {
+    margin-top: 2rem auto;
+    margin-bottom: 2rem auto;
+  }
+}
+.post__video::before, .post__iframe::before {
+  display: block;
+  content: "";
+  padding-top: 56.25%;
+}
+.post__video--21by9::before, .post__iframe--21by9::before {
+  padding-top: 42.857143%;
+}
+.post__video--4by3::before, .post__iframe--4by3::before {
+  padding-top: 75%;
+}
+.post__video--1by1::before, .post__iframe--1by1::before {
+  padding-top: 100%;
+}
+.post__video > iframe, .post__video > video, .post__iframe > iframe, .post__iframe > video {
+  border: none;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
 }
 
 .image {

@@ -3,7 +3,7 @@
     <title>David Sarrut</title>
     <link href="https://dsarrut.github.io/feed.xml" rel="self" />
     <link href="https://dsarrut.github.io" />
-    <updated>2021-02-24T16:22:01+01:00</updated>
+    <updated>2021-11-02T19:46:20+01:00</updated>
     <author>
         <name>David Sarrut</name>
     </author>
@@ -45,19 +45,19 @@
         <link href="https://dsarrut.github.io/resume/"/>
         <id>https://dsarrut.github.io/resume/</id>
 
-        <updated>2020-11-17T14:38:24+01:00</updated>
+        <updated>2021-11-02T19:46:20+01:00</updated>
             <summary>
                 <![CDATA[
-                    Position2019-now: DR1 CNRS and researcher at Léon Bérard cancer center2013-2019: DR2 CNRS and researcher at Léon Bérard cancer center (DR means Directeur de Recherche or Senior Permanent Researcher)2008-2013: CR1 CNRS and researcher at Léon Bérard&hellip;
+                    Position 2019-now: DR1 CNRS and researcher at CREATIS / Léon Bérard cancer center 2013-2019: DR2 CNRS and researcher at CREATIS / Léon Bérard cancer center (DR means Directeur de Recherche or Senior Permanent&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2 id="position">Position</h2>
 <ul>
-<li><strong>2019-now</strong>: DR1 <a href="http://www.cnrs.fr/">CNRS</a> and researcher at <a href="http://www.lyon.fnclcc.fr/">Léon Bérard cancer center</a></li>
-<li><strong>2013-2019</strong>: DR2 <a href="http://www.cnrs.fr/">CNRS</a> and researcher at <a href="http://www.lyon.fnclcc.fr/">Léon Bérard cancer center</a><br>(DR means <em>Directeur de Recherche</em> or <em>Senior Permanent Researcher</em>)</li>
-<li><strong>2008-2013</strong>: CR1 <a href="http://www.cnrs.fr/">CNRS</a> and researcher at <a href="http://www.lyon.fnclcc.fr/">Léon Bérard cancer center</a><br>(CR means <em>Chargé de Recherche</em> or <em>Permanent Researcher</em>)</li>
+<li><strong>2019-now</strong>: DR1 <a href="http://www.cnrs.fr/">CNRS</a> and researcher at <a href="http://www.lyon.fnclcc.fr/"></a><a href="https://www.creatis.insa-lyon.fr/" target="_blank" rel="noopener noreferrer">CREATIS</a> / <a href="http://www.lyon.fnclcc.fr/">Léon Bérard cancer center</a></li>
+<li><strong>2013-2019</strong>: DR2 <a href="http://www.cnrs.fr/">CNRS</a> and researcher at <a href="https://www.creatis.insa-lyon.fr/" target="_blank" rel="noopener noreferrer">CREATIS</a> / <a href="http://www.lyon.fnclcc.fr/">Léon Bérard cancer center</a><br>(DR means <em>Directeur de Recherche</em> or <em>Senior Permanent Researcher</em>)</li>
+<li><strong>2008-2013</strong>: CR1 <a href="http://www.cnrs.fr/">CNRS</a> and researcher at <a href="https://www.creatis.insa-lyon.fr/" target="_blank" rel="noopener noreferrer">CREATIS</a> / <a href="http://www.lyon.fnclcc.fr/">Léon Bérard cancer center</a><br>(CR means <em>Chargé de Recherche</em> or <em>Permanent Researcher</em>)</li>
 <li><strong>2004-2008</strong>: researcher at <a href="http://www.lyon.fnclcc.fr/">Léon Bérard cancer center</a></li>
 <li><strong>2000-2004</strong>: assistant professor at <a href="http://www.univ-lyon2.fr/">université Lumière Lyon 2</a></li>
 </ul>
@@ -81,7 +81,7 @@
         <updated>2020-11-17T14:40:26+01:00</updated>
             <summary>
                 <![CDATA[
-                    "Projects" : how to turn coffee into research articles ... 2020-2024 Mocamed (ANR) Advanced Monte Carlo Methods for Medical Physics2020-2024 Popeye (EU. ERA Per&hellip;
+                    "Projects" : how to turn coffee into research articles ... 2020-2024 Mocamed (ANR) Advanced Monte Carlo Methods for Medical Physics 2020-2024 Popeye (EU. ERA&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -122,10 +122,10 @@
         <link href="https://dsarrut.github.io/phd-and-post-doc-advisory/"/>
         <id>https://dsarrut.github.io/phd-and-post-doc-advisory/</id>
 
-        <updated>2020-11-17T13:39:22+01:00</updated>
+        <updated>2021-11-02T19:44:55+01:00</updated>
             <summary>
                 <![CDATA[
-                    (see below for participation to PhD/HDR committees) (15) 2019-10 Yue-Meng Feng Modeling and regularization in tomographic reconstruction for Compton camera imaging Co-supervisor: Voichita Maxim,&hellip;
+                     (see below for participation to PhD/HDR committees) (16) 2021-09 Joey Labour Investigating Y- 90 digital PET imaging with Monte-Carlo simulations and machine-learning&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -134,11 +134,12 @@
 <p>(see below for participation to PhD/HDR committees)</p>
 <h2>Current PhDs</h2>
 <ul>
+<li><strong>Théo Kaprelian</strong> (start 2021-10) - <em>Co-supervisor: Ane Etxebeste.<br>Monte Carlo simulations guided by artificial intelligence for medical physics and nuclear medicine. Study of GANs to model phase spaces.<br></em></li>
 <li><strong>Laure  Vergnaud</strong> (start 2020-09) - <em>Co-supervisor: Jean-Noel Badel.</em><br>Dosimetry for 177Lu treatments in internal radiotherapy based on imaging and Monte Carlo simulations</li>
 <li><strong>Antoine Robert</strong> (start 2018-10) - <em>Co-supervisor: Simon Rit.</em><br>Breathing motion correction in SPECT quantitation</li>
-<li><strong>Joey Labour</strong> (start 2018-10) - <em>Co-supervisor: Jean-Noel Badel.</em><br>Investigating Y- 90 digital PET imaging with Monte-Carlo simulations and machine-learning</li>
 </ul>
 <h2 id="past-phd-defended-phd-thesis"><a href="http://localhost:4000/phd/#Past-PhD-defended-phd-thesis" class="headerlink" title="Past PhD (defended phd thesis)"></a>Past PhD (defended phd thesis)</h2>
+<p>(16) <strong>2021-09 </strong><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Joey Labour<br></strong>Investigating Y- 90 digital PET imaging with Monte-Carlo simulations and machine-learning<br><em>Co-supervisor:Jean-Nöel Badel</em></p>
 <p>(15) <strong>2019-10 Yue-Meng Feng</strong><br><a href="https://tel.archives-ouvertes.fr/tel-02900652/document">Modeling and regularization in tomographic reconstruction for Compton camera imaging</a><br><em>Co-supervisor: Voichita Maxim, Jean-Michel Létang.</em></p>
 <p>(14) <strong>2019-01 Alessio Elia</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/AlessioElia-phd-2019.pdf">Gate as a Geant4-based Monte-Carlo platform to support medical commissioning and Treatment Planning System verification in scanned ion beam therapy.</a><br><em>Co-supervisor: Loic Grevillot.</em></p>
 <p>(13) <strong>2017-05 Brent Fokke Bram Huisman</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/BrentHuisman_PhD_2017.pdf">Accelerated Clinical Prompt Gamma simulations for Proton Therapy.</a><br><em>Co-supervisor: Etienne Testa.</em></p>
@@ -156,8 +157,10 @@
 <p>(1) <strong>2006-02 Vlad Boldea</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/VladBoldea_PhD_2006.pdf">Intégration de la respiration en radiothérapie: apport du recalage déformable d’images.</a><br><em>Co-supervisor: S. Miguet.</em></p>
 <h2 id="postdoc-engineer-advisor"><a href="http://localhost:4000/phd/#PostDoc-Engineer-advisor" class="headerlink" title="PostDoc / Engineer advisor"></a>PostDoc / Engineer advisor</h2>
 <ul>
+<li>2021 - <strong>Albert Saporta</strong></li>
+<li>2021 - <strong>Nils Krah</strong></li>
 <li>2020 - <strong>Nelly Abbani</strong></li>
-<li>2020 - <strong>David Benveniste</strong></li>
+<li>2020 - 2021 <strong>David Benveniste</strong></li>
 <li>2018 - 2020 <strong>Ane Etxebeste</strong></li>
 <li>2017 - 2019 <strong>Olga Kochebina</strong></li>
 <li>2015 - 2017 <strong>Thomas Cajgfinger</strong></li>
@@ -175,9 +178,15 @@
 <li>2007 - 2010 <strong>Thibault Frisson</strong></li>
 </ul>
 <h2 id="participation-to-phdhdr-committees"><a href="http://localhost:4000/phd/#Participation-to-PhD-HDR-committees" class="headerlink" title="Participation to PhD/HDR committees"></a>Participation to PhD/HDR committees</h2>
+<h3 id="2020"><a href="http://localhost:4000/phd/#2020" class="headerlink" title="2020"></a>2021</h3>
+<ul>
+<li><strong>Émilie Alvarez Andres</strong> (Villejuif)<br>Characterization of pseudo CT from MRI with deep learning - Application to brain tumors treated with radiotherapy</li>
+<li><strong>Kevin Brou Boni</strong> (Lille)<br>Deep learning in MR-guided radiotherapy</li>
+<li><strong>[HDR] Oscar Acosta</strong> (Rennes)<br>Towards Personalized Planning in Prostate Cancer Radiotherapy</li>
+<li><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">[HDR] Jean-Claude Nunes</strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (Rennes)<br></span>Métriques en traitement d’images, Aide au diagnostic et Traitement guidé par l’image en cardiologie interventionnelle et en radiothérapie</li>
+</ul>
 <h3 id="2020"><a href="http://localhost:4000/phd/#2020" class="headerlink" title="2020"></a>2020</h3>
 <ul>
-<li><strong>[HDR] Jean-Claude Nunes</strong> (Rennes)</li>
 <li><strong>[HDR] Charlotte Robert</strong> (Villejuif)<br>Imagerie multi-modalité et intelligence artificielle pour l’optimisation des traitements par radiothérapie</li>
 <li><strong>Franklin Okoli</strong> (Brest)<br>Treatment Planning Optimization for Non-coplanar Volumetric Modulated Arc Therapy</li>
 <li><strong>Fabrice Entine</strong> (Fontenay-aux-Roses)<br>Conception d’un outil numérique opérationnel de reconstitution dosimétrique</li>
@@ -266,7 +275,7 @@
         <updated>2020-11-15T09:44:13+01:00</updated>
             <summary>
                 <![CDATA[
-                    Open-Source software developmentVV This is an image viewer, specialized to 3D and 4D CT images and image registration evaluation. Very simple and fast.
+                     Open-Source software development VV This is an image viewer, specialized to 3D and 4D CT images and image registration evaluation. Very simple&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -291,10 +300,10 @@
         <link href="https://dsarrut.github.io/welcome/"/>
         <id>https://dsarrut.github.io/welcome/</id>
 
-        <updated>2020-11-15T10:24:35+01:00</updated>
+        <updated>2021-10-05T22:24:15+02:00</updated>
             <summary>
                 <![CDATA[
-                    Who am I ?Researcher at CNRS Leader of CREATIS ‘Tomoradio’ team (Tomographic imaging and radiation therapy) Monte-Carlo simulations Nuclear imaging Image-Guided Radiation Therapy (IGRT) David&hellip;
+                    Who am I ? Researcher at CNRS Leader of CREATIS ‘Tomoradio’ team (Tomographic imaging and radiation therapy) Monte-Carlo simulations Nuclear imaging Image-Guided Radiation Therapy (IGRT)&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -317,23 +326,22 @@
         <link href="https://dsarrut.github.io/publications/"/>
         <id>https://dsarrut.github.io/publications/</id>
 
-        <updated>2021-02-24T16:22:01+01:00</updated>
+        <updated>2021-11-02T19:34:59+01:00</updated>
             <summary>
                 <![CDATA[
-                    Ask me if you need the pdf versions.List on HALList on pubmedList on google scholarList on researcher gateList on publonsList as a pdf version (not necessarily up to date)List on&hellip;
+                    Ask me if you need the pdf versions. List on pubmed List on publons List on HAL List on google scholar List on researcher gate List as a pdf&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Ask me if you need the pdf versions.</p>
 <ul>
-<li>List on <a href="https://cv.archives-ouvertes.fr/david-sarrut">HAL</a></li>
-<li>List on <a href="https://www.ncbi.nlm.nih.gov/pubmed?term=Sarrut.%20D%5BAuthor%5D">pubmed</a></li>
-<li>List on <a href="https://scholar.google.fr/citations?user=Ugm1VFsAAAAJ&amp;hl=en">google scholar</a></li>
-<li>List on <a href="https://www.researchgate.net/profile/David_Sarrut/publications">researcher gate</a></li>
-<li>List on <a href="https://publons.com/researcher/1207810/david-sarrut">publons</a></li>
+<li>List on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Sarrut.+D%5BAuthor%5D&amp;sort=date" target="_blank" rel="noopener noreferrer">pubmed</a></li>
+<li>List on <a href="https://publons.com/researcher/1207810/david-sarrut" target="_blank" rel="noopener noreferrer">publons</a></li>
+<li>List on <a href="https://cv.archives-ouvertes.fr/david-sarrut" target="_blank" rel="noopener noreferrer">HAL</a></li>
+<li>List on <a href="https://scholar.google.fr/citations?user=Ugm1VFsAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">google scholar</a></li>
+<li>List on <a href="https://www.researchgate.net/profile/David_Sarrut/publications" target="_blank" rel="noopener noreferrer">researcher gate</a></li>
 <li>List as a <a href="http://www.creatis.insa-lyon.fr/~dsarrut/publications2020.pdf">pdf version</a> (not necessarily up to date)</li>
-<li>List on the <a href="https://www.creatis.insa-lyon.fr/site7/en/view/biblio/author/237%20?cid_1=237">CREATIS lab page</a> (no more up to date)</li>
 </ul>
 <figure class="post__image"><img loading="lazy"  src="https://dsarrut.github.io/media/posts/1/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-xs.png 300w ,https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-sm.png 480w ,https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-md.png 768w ,https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-lg.png 1024w ,https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-xl.png 1360w ,https://dsarrut.github.io/media/posts/1/responsive/RandD-et-Innovation-Politique-Publications-scientifiques-et-techniques-background_0-2xl.png 1600w"  alt="" width="627" height="212"></figure>
             ]]>
