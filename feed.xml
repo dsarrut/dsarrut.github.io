@@ -3,21 +3,21 @@
     <title>David Sarrut</title>
     <link href="https://dsarrut.github.io/feed.xml" rel="self" />
     <link href="https://dsarrut.github.io" />
-    <updated>2022-08-17T21:02:30+02:00</updated>
+    <updated>2022-08-17T21:07:06+02:00</updated>
     <author>
         <name>David Sarrut</name>
     </author>
     <id>https://dsarrut.github.io</id>
 
     <entry>
-        <title>PhD/HDR committees</title>
+        <title>Committees</title>
         <author>
             <name>David Sarrut</name>
         </author>
         <link href="https://dsarrut.github.io/phd-and-post-doc-advisory-2/"/>
         <id>https://dsarrut.github.io/phd-and-post-doc-advisory-2/</id>
 
-        <updated>2022-08-17T21:02:30+02:00</updated>
+        <updated>2022-08-17T21:06:10+02:00</updated>
             <summary>
                 <![CDATA[
                     Participation to PhD/HDR committees 2022 Mohammed Bensiali (IRSN) INDORI intégration des INcertitudes associées à la Dosimétrie personnalisée dans l'Optimisation des Radiothérapies lnternes Chi-Hsun&hellip;
@@ -224,14 +224,14 @@
         </content>
     </entry>
     <entry>
-        <title>PhD and post-doc advisory</title>
+        <title>PhD and Postdoc advisory</title>
         <author>
             <name>David Sarrut</name>
         </author>
         <link href="https://dsarrut.github.io/phd-and-post-doc-advisory/"/>
         <id>https://dsarrut.github.io/phd-and-post-doc-advisory/</id>
 
-        <updated>2022-08-17T20:53:31+02:00</updated>
+        <updated>2022-08-17T21:07:06+02:00</updated>
             <summary>
                 <![CDATA[
                     Current PhDs Théo Kaprelian (start 2021-10) - Co-supervisor: Ane Etxebeste. Monte Carlo simulations guided by artificial intelligence for medical physics and nuclear medicine.
@@ -244,10 +244,10 @@
 <ul>
 <li><strong>Théo Kaprelian</strong> (start 2021-10) - <em>Co-supervisor: Ane Etxebeste.<br>Monte Carlo simulations guided by artificial intelligence for medical physics and nuclear medicine. Study of GANs to model phase spaces.<br></em></li>
 <li><strong>Laure  Vergnaud</strong> (start 2020-09) - <em>Co-supervisor: Jean-Noel Badel.</em><br>Dosimetry for 177Lu treatments in internal radiotherapy based on imaging and Monte Carlo simulations</li>
-<li><strong>Antoine Robert</strong> (start 2018-10) - <em>Co-supervisor: Simon Rit.</em><br>Breathing motion correction in SPECT quantitation</li>
 </ul>
 <h2 id="past-phd-defended-phd-thesis"><a href="http://localhost:4000/phd/#Past-PhD-defended-phd-thesis" class="headerlink" title="Past PhD (defended phd thesis)"></a>Past PhD (defended phd thesis)</h2>
-<p>(16) <strong>2021-09 </strong><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Joey Labour<br></strong>Investigating Y- 90 digital PET imaging with Monte-Carlo simulations and machine-learning<br><em>Co-supervisor:Jean-Nöel Badel</em></p>
+<p>(17) <strong>2021-09 Antoine Robert</strong><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;"><br></strong><a href="https://hal.archives-ouvertes.fr/tel-03709324">Correction du mouvement respiratoire en tomographie par émission mono-photonique</a><br><em>Co-supervisor: Simon Rit</em></p>
+<p>(16) <strong>2021-09 </strong><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;"><span style="color: #ffffff;">Joey Labour</span><br></strong>Investigating Y- 90 digital PET imaging with Monte-Carlo simulations and machine-learning<br><em>Co-supervisor: Jean-Noël Badel</em></p>
 <p>(15) <strong>2019-10 Yue-Meng Feng</strong><br><a href="https://tel.archives-ouvertes.fr/tel-02900652/document">Modeling and regularization in tomographic reconstruction for Compton camera imaging</a><br><em>Co-supervisor: Voichita Maxim, Jean-Michel Létang.</em></p>
 <p>(14) <strong>2019-01 Alessio Elia</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/AlessioElia-phd-2019.pdf">Gate as a Geant4-based Monte-Carlo platform to support medical commissioning and Treatment Planning System verification in scanned ion beam therapy.</a><br><em>Co-supervisor: Loic Grevillot.</em></p>
 <p>(13) <strong>2017-05 Brent Fokke Bram Huisman</strong><br><a href="http://www.creatis.insa-lyon.fr/~dsarrut/phd/BrentHuisman_PhD_2017.pdf">Accelerated Clinical Prompt Gamma simulations for Proton Therapy.</a><br><em>Co-supervisor: Etienne Testa.</em></p>
