@@ -3,7 +3,7 @@
     <title>David Sarrut</title>
     <link href="https://dsarrut.github.io/feed.xml" rel="self" />
     <link href="https://dsarrut.github.io" />
-    <updated>2022-08-18T07:17:53+02:00</updated>
+    <updated>2022-08-18T10:47:13+02:00</updated>
     <author>
         <name>David Sarrut</name>
     </author>
@@ -188,16 +188,18 @@
         <link href="https://dsarrut.github.io/projects/"/>
         <id>https://dsarrut.github.io/projects/</id>
 
-        <updated>2020-11-17T14:40:26+01:00</updated>
+        <updated>2022-08-18T10:47:13+02:00</updated>
             <summary>
                 <![CDATA[
-                    "Projects" : how to turn coffee into research articles ... 2020-2024 Mocamed (ANR) Advanced Monte Carlo Methods for Medical Physics 2020-2024 Popeye (EU. ERA&hellip;
+                    "Projects" : how to turn coffee into research articles ... 2022-2027 LYSAIRI (RHU) Advanced Monte Carlo Methods for Medical Physics 2021-2025 SPECT-Motion-eDCC (ANR) Consistency-Based Patient-Motion&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <figure class="post__image">"Projects" : how to turn coffee into research articles ...<br><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: 18.4px; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://dsarrut.github.io/media/posts/5/professionell_langzeitarchivierungProjekte_buehne.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-xs.jpg 300w ,https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-sm.jpg 480w ,https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-md.jpg 768w ,https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-lg.jpg 1024w ,https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-xl.jpg 1360w ,https://dsarrut.github.io/media/posts/5/responsive/professionell_langzeitarchivierungProjekte_buehne-2xl.jpg 1600w"  alt="" width="186" height="105"></figure>
 <ul>
+<li><strong>2022-2027</strong> <span style="color: #169179;"><span style="color: #169179;">LYSAIRI</span></span> (RHU) Advanced Monte Carlo Methods for Medical Physics</li>
+<li><strong>2021-2025</strong> <span style="color: #169179;"><span style="color: #169179;">SPECT-Motion-eDCC</span></span> (ANR) Consistency-Based Patient-Motion Correction in Pinhole and Conventional SPECT<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span></li>
 <li><strong>2020-2024</strong> <span style="color: #169179;">Mocamed</span> (ANR) Advanced Monte Carlo Methods for Medical Physics</li>
 <li><strong>2020-2024</strong> <span style="color: #169179;">Popeye</span> (EU. ERA Per Med). Personalised Optimisation of Prognostic and thErapeutic protocols with Lu-177 for MNETs, through the development of advanced computational tools and a portable detection sYstEm</li>
 <li><strong>2020-2022</strong> <span style="color: #169179;">Delpel</span> (INSERM, INCa, Aviesan). Deep Learning for dose monitoring in EBRT of pelvic cancers.</li>
