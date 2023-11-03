@@ -3,7 +3,7 @@
     <title>David Sarrut</title>
     <link href="https://dsarrut.github.io/feed.xml" rel="self" />
     <link href="https://dsarrut.github.io" />
-    <updated>2023-03-25T14:31:11+01:00</updated>
+    <updated>2023-11-03T09:46:03+01:00</updated>
     <author>
         <name>David Sarrut</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://dsarrut.github.io/committees/"/>
         <id>https://dsarrut.github.io/committees/</id>
 
-        <updated>2023-03-25T14:29:24+01:00</updated>
+        <updated>2023-11-03T09:46:03+01:00</updated>
             <summary>
                 <![CDATA[
-                    Participation to PhD/HDR committees 2023 Alexia Delbaere (Toulouse) Formalisme métrologique pour la détermination de la dose absorbée dans les milieux hétérogènes pour des&hellip;
+                    Participation to PhD/HDR committees 2023 Yanis Chemli (Paris) Methods for improved quantification in brain PET imaging using super-resolution and non-negative matrix factorization Maxime&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -29,6 +29,9 @@
 <h2 id="participation-to-phdhdr-committees"><a href="http://localhost:4000/phd/#Participation-to-PhD-HDR-committees" class="headerlink" title="Participation to PhD/HDR committees"></a>Participation to PhD/HDR committees</h2>
 <h3><span style="color: #ffffff;">2023</span></h3>
 <ul>
+<li><span style="color: #ffffff;">Yanis Chemli </span>(Paris)<br>Methods for improved quantification in brain PET imaging using super-resolution and non-negative matrix factorization</li>
+<li><span style="color: #ffffff;">Maxime Jacquet </span>(Grenoble)<br>Conception d'un détecteur pour l'imagerie Gamma Prompt basé sur temps de vol</li>
+<li><span style="color: #ffffff;">[HDR] Aurélien Corroyer-Dulmont </span>(Caen)<br>Formalisme métrologique pour la détermination de la dose absorbée dans les milieux hétérogènes pour des faisceaux de photons de haute énergie</li>
 <li><span style="color: #ffffff;">Alexia Delbaere </span>(Toulouse)<br>Formalisme métrologique pour la détermination de la dose absorbée dans les milieux hétérogènes pour des faisceaux de photons de haute énergie</li>
 </ul>
 <h3><span style="color: #ffffff;">2022</span></h3>
